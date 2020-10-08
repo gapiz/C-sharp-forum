@@ -1,0 +1,15 @@
+F:\Мои проекты\WPF\C-sharp-forum1\C-sharp-forum1\bin\Debug\C-sharp-forum1.exe.config
+F:\Мои проекты\WPF\C-sharp-forum1\C-sharp-forum1\bin\Debug\C-sharp-forum1.exe
+F:\Мои проекты\WPF\C-sharp-forum1\C-sharp-forum1\bin\Debug\C-sharp-forum1.pdb
+F:\Мои проекты\WPF\C-sharp-forum1\C-sharp-forum1\obj\Debug\C-sharp-forum1.csprojAssemblyReference.cache
+F:\Мои проекты\WPF\C-sharp-forum1\C-sharp-forum1\obj\Debug\MainWindow.g.cs
+F:\Мои проекты\WPF\C-sharp-forum1\C-sharp-forum1\obj\Debug\App.g.cs
+F:\Мои проекты\WPF\C-sharp-forum1\C-sharp-forum1\obj\Debug\C-sharp-forum1_MarkupCompile.cache
+F:\Мои проекты\WPF\C-sharp-forum1\C-sharp-forum1\obj\Debug\C-sharp-forum1_MarkupCompile.lref
+F:\Мои проекты\WPF\C-sharp-forum1\C-sharp-forum1\obj\Debug\MainWindow.baml
+F:\Мои проекты\WPF\C-sharp-forum1\C-sharp-forum1\obj\Debug\C-sharp-forum1.g.resources
+F:\Мои проекты\WPF\C-sharp-forum1\C-sharp-forum1\obj\Debug\C_sharp_forum1.Properties.Resources.resources
+F:\Мои проекты\WPF\C-sharp-forum1\C-sharp-forum1\obj\Debug\C-sharp-forum1.csproj.GenerateResource.cache
+F:\Мои проекты\WPF\C-sharp-forum1\C-sharp-forum1\obj\Debug\C-sharp-forum1.csproj.CoreCompileInputs.cache
+F:\Мои проекты\WPF\C-sharp-forum1\C-sharp-forum1\obj\Debug\C-sharp-forum1.exe
+F:\Мои проекты\WPF\C-sharp-forum1\C-sharp-forum1\obj\Debug\C-sharp-forum1.pdb
