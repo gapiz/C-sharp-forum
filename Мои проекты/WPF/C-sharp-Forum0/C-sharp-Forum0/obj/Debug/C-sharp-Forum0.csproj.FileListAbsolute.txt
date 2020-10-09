@@ -1,0 +1,7 @@
+F:\Мои проекты\WPF\C-sharp-Forum0\C-sharp-Forum0\bin\Debug\C-sharp-Forum0.exe.config
+F:\Мои проекты\WPF\C-sharp-Forum0\C-sharp-Forum0\bin\Debug\C-sharp-Forum0.exe
+F:\Мои проекты\WPF\C-sharp-Forum0\C-sharp-Forum0\bin\Debug\C-sharp-Forum0.pdb
+F:\Мои проекты\WPF\C-sharp-Forum0\C-sharp-Forum0\obj\Debug\C-sharp-Forum0.csprojAssemblyReference.cache
+F:\Мои проекты\WPF\C-sharp-Forum0\C-sharp-Forum0\obj\Debug\C-sharp-Forum0.csproj.CoreCompileInputs.cache
+F:\Мои проекты\WPF\C-sharp-Forum0\C-sharp-Forum0\obj\Debug\C-sharp-Forum0.exe
+F:\Мои проекты\WPF\C-sharp-Forum0\C-sharp-Forum0\obj\Debug\C-sharp-Forum0.pdb

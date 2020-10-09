@@ -1,0 +1,9 @@
+A:\Мои проекты\C#\Windows Forms .NET Framework\Snake\Snake\bin\Debug\Snake.exe.config
+A:\Мои проекты\C#\Windows Forms .NET Framework\Snake\Snake\bin\Debug\Snake.exe
+A:\Мои проекты\C#\Windows Forms .NET Framework\Snake\Snake\bin\Debug\Snake.pdb
+A:\Мои проекты\C#\Windows Forms .NET Framework\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+A:\Мои проекты\C#\Windows Forms .NET Framework\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+A:\Мои проекты\C#\Windows Forms .NET Framework\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+A:\Мои проекты\C#\Windows Forms .NET Framework\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+A:\Мои проекты\C#\Windows Forms .NET Framework\Snake\Snake\obj\Debug\Snake.exe
+A:\Мои проекты\C#\Windows Forms .NET Framework\Snake\Snake\obj\Debug\Snake.pdb
